@@ -3,7 +3,10 @@
   "description": "Rollup Plugin for Screeps",
   "license": "MIT",
   "author": "Adam Laycock",
-  "contributors": ["Carson Burke", "shanemadden"],
+  "contributors": [
+    "Carson Burke",
+    "shanemadden"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/screepers/rollup-plugin-screeps-world"
@@ -20,7 +23,7 @@
   },
   "dependencies": {
     "git-rev-sync": "^3.0.2",
-    "screeps-api": "^1.11.0"
+    "screeps-api": "^1.16.1"
   },
   "devDependencies": {
     "@types/mocha": "^7.0.2",
